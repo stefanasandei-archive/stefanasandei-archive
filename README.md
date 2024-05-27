@@ -1,0 +1,1 @@
+Archive account of [stefanasandei](https://github.com/stefanasandei). I started coding for fun when I was 12 and since I have created a lot of repos. Looking back, most of them aren't that good, but they do show my progress as a programmer. To not delete those memories, I am creating this archive.
